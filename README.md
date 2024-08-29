@@ -15,7 +15,7 @@ Socket.io: Enables real-time, bidirectional communication between web clients an
 Chess.js: JavaScript library for chess move generation, validation, and game tracking.
 Tailwind CSS: Utility-first CSS framework for styling.
 
-###Installation
+##Installation
 Clone the repository:
 git clone https://github.com/your-username/chess-web-app.git
 cd chess-web-app
